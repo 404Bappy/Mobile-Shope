@@ -1,27 +1,30 @@
 body{
-	background: rgb(231, 239, 127);
+	background: rgb(248, 248, 244);
 
     
 }
 
 .my-mobile{
     text-align: center;
-    margin-top:5%;
+    margin-bottom: 2%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 600;
+    font-weight: 700;
+    color: #0f0101;
+    border-radius: 0px;
+    
 }
 .cart{
-	margin: 10px 4px;
-	background-color: #f5f3f9;;
+	margin: 10px 10px ;
+	background-color: #e6f7a5;;
 	padding: 70px 0;
     border-radius: 10px;
-    margin-top: 5%;
+    margin-top:  2%;
 }
 .total-price{
 	padding-bottom: 15px;
 }
 .cart-item{
-	background-color: #fff;
+	background-color: rgb(250, 246, 246);
 	border-radius: 10px;
 	padding: 15px 20px;
 	margin-bottom: 20px;
@@ -41,7 +44,7 @@ body{
 	width: 25px!important;
 }
 .btn-default{
-	background-color: #fff;
+	background-color: rgb(233, 152, 152);
 }
 .cart-item .form-control{
 	background-color: #F6F5FA;
